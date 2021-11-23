@@ -1,8 +1,0 @@
-Filename, Number of Functions, total cyclomatic complexity, total lines of code,token_count,parameters
-8db6c32 HandledContributionItem.java,44,175,617,3788,27
-8db6c32 MenuManagerRenderer.java,46,200,806,5289,74
-8db6c32 ToolBarContributionRecord.java,12,60,217,1317,11
-8db6c32 ToolBarManagerRenderer.java,43,153,602,3904,59
-8db6c32 ToolItemUpdater.java,3,8,21,115,2
-8db6c32 WorkbenchWindow.java,133,391,1580,10309,93
-8db6c32 EvaluationService.java,18,51,221,1395,20
